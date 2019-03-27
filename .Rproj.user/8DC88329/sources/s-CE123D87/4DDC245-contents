@@ -1,0 +1,60 @@
+---
+title: "Be Present"
+description: |
+  A new article created using the Distill format.
+author:
+  - name: Nora Jones 
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Twitter
+
+Mara Averick
+Hadley Wickham
+WeAreRladies
+R4DS Community
+
+# R News
+
+https://rviews.rstudio.com/
+https://blog.revolutionanalytics.com/
+https://rweekly.org/
+https://www.r-bloggers.com/
+
+# Communities
+
+https://ropensci.org/community/
+https://rladies.org/
+https://www.r-consortium.org/
+http://forwards.github.io/
+https://twitter.com/R_LGBTQ
+https://www.bioconductor.org/
+
+# Meetups
+
+R User Groups
+R Ladies
+
+# Conferences
+
+https://satrdays.org/
+rstudio::conf
+https://chirunconf.github.io/
+https://www.rstats.nyc/
+http://www.user2019.fr/
+https://www.r-project.org/news.html
+EARL Conference
+JSM
+https://jumpingrivers.github.io/meetingsR/index.html#technical-bit
+
+# Blog posts
+
+https://hookedondata.org/building-your-data-science-network-finding-community/

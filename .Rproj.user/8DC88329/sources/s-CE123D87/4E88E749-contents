@@ -1,0 +1,39 @@
+---
+title: "Participate and Ask Questions"
+description: |
+  A new article created using the Distill format.
+author:
+  - name: Nora Jones 
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](static/dog-paw.png)
+
+# Twitter
+
+Twitter is great for asking questions, sharing updates about `#rstats`, as well as answering questions!
+
+### Great Example Tweets
+
+Embed some here
+
+# Give a Presentation
+
+Presentations can range from short to symposiums.
+
+### R Ladies or R User Groups
+
+### Lightning Talks
+
+# RStudio Community
+
+# Stack Overflow
+

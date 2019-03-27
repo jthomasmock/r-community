@@ -1,0 +1,23 @@
+---
+title: "Field Guide to the R Community"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+
+### The R Community
+
+* “[The R community is one of R’s Best features](https://blog.revolutionanalytics.com/2017/06/r-community.html)” - David Smith)  
+* [Solving the problems you didn’t know you have AND Solving the problems you will have](https://masalmon.eu/2019/01/25/uptodate) - Maelle Salmon  
+* [Advance your career](https://www.dropbox.com/s/jk7216yr30ztpdp/DavidRobinson-RStudio-2019-old.pdf?dl=0) - Dave Robinson  
+* Learn and *update* best practices   
+* It’s open source - you can contribute!  

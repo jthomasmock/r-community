@@ -1,0 +1,32 @@
+---
+title: "Practice"
+description: |
+  A new article created using the Distill format.
+author:
+  - name: Nora Jones 
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](static/practice.png)
+
+# Blog
+
+Twitter is great for asking questions, sharing updates about `#rstats`, as well as answering questions!
+
+
+# Book
+
+
+
+# Screencast
+
+
+

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553647000794.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A9F6A01B",
+    "lastKnownWriteTime" : 1553647056,
+    "last_content_update" : 1553647056056,
+    "path" : "~/r-community/practice.rmd",
+    "project_path" : "practice.rmd",
+    "properties" : {
+        "cursorPosition" : "14,35",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

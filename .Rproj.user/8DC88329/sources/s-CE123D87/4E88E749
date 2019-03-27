@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553646353829.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4E88E749",
+    "lastKnownWriteTime" : 1553646833,
+    "last_content_update" : 1553646833722,
+    "path" : "~/r-community/participate.rmd",
+    "project_path" : "participate.rmd",
+    "properties" : {
+        "cursorPosition" : "39,0",
+        "scrollLine" : "18",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
